@@ -62,6 +62,7 @@ console.log("Server is ready");
 ## Inspired
 
 Inspired by [wait-for-localhost](https://github.com/sindresorhus/wait-for-localhost)
+
 Inspired by [wait-for-localhost-cli](https://github.com/sindresorhus/wait-for-localhost-cli)
 
 ## License
