@@ -1,1 +1,1 @@
-export * from "./main.ts";
+export * from "./wait_for_localhost.ts";
